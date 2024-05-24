@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ioannis Bekiaris</h1>
-<h3 align="center">I’m a physics student with a specialization in computer science and programming, currently aspiring to be a software engineer. I have hands-on experience in various programming languages and technologies, including JavaScript, HTML5, Python, C, C++, and Matlab. I enjoy tackling challenging problems and building innovative projects.</h3>
+<h3 align="center">I’m a physics student with a specialization in computer science and programming, currently aspiring to be a software engineer. I have hands-on experience in various programming languages and technologies, including JavaScript, HTML5, Python, C, C++, and React. I enjoy tackling challenging problems and building innovative projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekathunder215&label=Profile%20views&color=0e75b6&style=flat" alt="bekathunder215" /> </p>
 
@@ -8,8 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ioannis-bekiaris-737894277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ioannis-bekiaris-737894277/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/johnnybek19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="https://www.instagram.com/johnnybek19/" height="30" width="40" /></a>
-
+<a href="https://instagram.com/johnnybek19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johnnybek19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
