@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ioannis Bekiaris</h1>
 <h3 align="center">I’m a physics student with a specialization in computer science and programming, currently aspiring to be a software engineer. I have hands-on experience in various programming languages and technologies, including JavaScript, HTML5, Python, C, C++, and React. I enjoy tackling challenging problems and building innovative projects.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://github.com/Bekathunder215/Bekathunder215/blob/main/cofeecpp.gif"> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekathunder215&label=Profile%20views&color=0e75b6&style=flat" alt="bekathunder215" /> </p>
 
 - ⚡ Fun fact **I geek out with IoT and all kinds of things that are possible with coding and embedded programming.**
