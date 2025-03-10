@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ioannis Bekiaris</h1>
-<h3 align="center">I’m a physics graduate with a specialization in computer science and programming, currently aspiring to be a software engineer. I have hands-on experience in various programming languages and technologies, including Bash, JavaScript, HTML5, Python, C, C++, and React. I enjoy tackling challenging problems and building innovative projects. Learn more about me <a href="https://bekathunder215.github.io/mywebsite/"> here</a> </h3>
+<h3 align="center">I’m a master's student in Human-Centered Artificial Intelligence at DTU with a background in physics. I’m passionate about machine learning, data science, and software development, with hands-on experience in various programming languages and technologies, including Python, JavaScript, React, and C++. 
+  
+A small fun fact about me is that I geek out with IoT and all the possibilities of coding and embedded programming.
+  
+  Learn more about me <a href="https://bekathunder215.github.io/mywebsite/"> here</a> </h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Bekathunder215/Bekathunder215/blob/main/cofeecpp.gif"> 
 
